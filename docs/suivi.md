@@ -42,6 +42,7 @@ title: Suivi du projet
 ### Objectifs de la période
 - Finaliser les documents pour la soumission éthique
 - Commencer à explorer le dépôt PromptCEO
+- Familiarisation avec le repository
 
 ### Travail réalisé
 
