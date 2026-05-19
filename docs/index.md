@@ -32,7 +32,7 @@ title: Vue d'ensemble du projet
 
 ### Proposition et objectifs
 
-> Ce projet étudie comment des fonctionnalités interactives — notamment la visualisation de l'incertitude et le pilotage en cours d'optimisation — intégrées à l'outil **PromptCEO** influencent le comportement des développeurs, leur charge cognitive, et la qualité des prompts obtenus dans un budget computationnel fixe.
+> Ce projet étudie comment des fonctionnalités interactives notamment la visualisation de l'incertitude et le pilotage en cours d'optimisation intégrées à l'outil **PromptCEO** influencent le comportement des développeurs, leur charge cognitive, et la qualité des prompts obtenus dans un budget computationnel fixe.
 
 > Les deux objectifs principaux sont :
 
